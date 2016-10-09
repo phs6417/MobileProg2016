@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
     }
     public class ClassName2{
         public int getMinimum(){
-            int min=3 ;
+            int min=3;
 
             return min;
 
